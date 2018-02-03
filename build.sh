@@ -201,15 +201,6 @@ fi
 # Program Start
 rm -rf oxygen/build.log
 clear
-echo "      XYGEN     EN      OX     O     OXY   GENOXYGE    YGENOXYGEN   OXYG    YG"
-echo "    ENOXYGE   XYGE    GE    YGEN   GEN   OXYGENOX     NOXYGENO     GENOXY   OX"
-echo "   XYG   XYG     YG  OX       YGE  XY   EN            EN           YG NO   EN"
-echo "   NO     OX      XYGE          YGEN    YG            YGENOX       OX  EN  YG"
-echo "   GE     EN      NOX            XYG    OX    OX      OXYGE        EN  YG  OX"
-echo "   XY     YG     YGENO           NOX    ENO   EN      EN           YG   XY EN"
-echo "   NOX   NOX    NOX  EN          GEN     GE   YG      YG           OX   NOXYG"
-echo "    ENOXYGE     GE    GENO       XYG      XYGENOX     OXYGENOX     EN    ENOX"
-echo "     GENOX     OX      Y         NOX        XYGE      ENOXYG       YG    YGEN"
 echo ""
 echo "0) Clean Workspace"
 echo ""
